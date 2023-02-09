@@ -1,5 +1,46 @@
-- 👋 Heya!, I’m Endri Muco. 
-- 👀 I’m interested on becoming a full stack web developer, mostly my interes is on React JS and spending most of my time programming in it.
-- 🌱 I’m currently learning how to be a sucessful web developer and develop my skills by programming.
-- 💞️ I’m looking to collaborate on helping others and looking for new solutions that can be done in programming.
-- 📫 How to reach me 📸 Instagram:  endrimuco_, 👾 Discord: DevJoyBoy#9832
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&repeat=false&width=445&height=56&lines=Endri+Muco)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=445&height=56&lines=React+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<div width="100" align="center" > 
+  
+I am a React developer with a passion for programming. I have a strong understanding of JavaScript, HTML, and CSS, and I have hands-on experience building scalable, dynamic web applications using React.
+  
+I enjoy staying up-to-date with the latest industry trends and continuing to expand my knowledge of programming. I am confident in my ability to bring value to any organization as a React developer. I am excited to continue learning and growing in this field and I am eager to take on new challenges and contribute to the success of the projects I work on.
+  
+</div>
+
+<hr>
+
+<h2> ⚙️ Language and Tools </h2>
+
+<div align="center"> 
+   
+  ![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,mongodb,expressjs)
+  <br>
+  <br>
+  ![My Tools](https://skillicons.dev/icons?i=git,github,discord,bootstrap)
+  
+</div>
+
+
+<hr>
+
+<h2> 📊 Stats </h2>
+
+
+<div align="center"> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endrimuco&show_icons=true&theme=dark&hide_border=true&border_radius=0)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=EndriMuco&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+
+</div>
+
+
+
+
