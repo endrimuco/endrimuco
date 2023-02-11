@@ -34,6 +34,8 @@ I enjoy staying up-to-date with the latest industry trends and continuing to exp
 
 <h3> TBA </h3>
 
+<hr>
+
 <h2> 📊 Stats </h2>
 
 
