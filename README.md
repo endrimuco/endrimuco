@@ -30,6 +30,10 @@ I enjoy staying up-to-date with the latest industry trends and continuing to exp
 
 <hr>
 
+<h2> 📘 Projects </h2>
+
+<h3> TBA </h3>
+
 <h2> 📊 Stats </h2>
 
 
