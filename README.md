@@ -8,7 +8,7 @@
 
 <div width="100" align="center" > 
   
-I am a React developer with a passion for programming. I have a strong understanding of JavaScript, HTML, and CSS, and I have hands-on experience building scalable, dynamic web applications using React.
+I am a Full Stack Web Developer with a passion for programming. I have a strong understanding of JavaScript, HTML, and CSS, and I have hands-on experience building scalable, dynamic web applications using React.
   
 I enjoy staying up-to-date with the latest industry trends and continuing to expand my knowledge of programming. I am confident in my ability to bring value to any organization as a React developer. I am excited to continue learning and growing in this field and I am eager to take on new challenges and contribute to the success of the projects I work on.
   
