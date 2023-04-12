@@ -6,6 +6,8 @@
 
 </div>
 
+<h2> 💻 About me:</h2>
+
 <div width="100" align="center" > 
   
 I am a Full Stack Web Developer with a passion for programming. I have a strong understanding of JavaScript, HTML, and CSS, and I have hands-on experience building scalable, dynamic web applications using React.
