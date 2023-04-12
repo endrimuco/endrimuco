@@ -34,7 +34,7 @@ I enjoy staying up-to-date with the latest industry trends and continuing to exp
 
 <h2> 📘 Projects </h2>
 
-<h3> TBA </h3>
+<img src="https://imgur.com/Kvt6rt9.png" alt="2Brothers Auto Dealership" width="300"> <img src="https://i.imgur.com/iGaZZBA.png" alt="Healthy Lens Photography Studio" width="300">
 
 <hr>
 
