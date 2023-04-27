@@ -43,8 +43,6 @@ I enjoy staying up-to-date with the latest industry trends and continuing to exp
 
 <div align="center"> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endrimuco&show_icons=true&theme=dark&hide_border=true&border_radius=0)
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=EndriMuco&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 </div>
