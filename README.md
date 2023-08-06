@@ -22,7 +22,7 @@ I enjoy staying up-to-date with the latest industry trends and continuing to exp
 
 <div align="center"> 
    
-  ![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,mongodb,expressjs)
+  ![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,mongodb,expressjs,gulp,scss)
   <br>
   <br>
   ![My Tools](https://skillicons.dev/icons?i=git,github,discord,bootstrap)
